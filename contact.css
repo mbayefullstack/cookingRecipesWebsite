@@ -1,0 +1,25 @@
+.form-contact {
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
+    padding:0 5vw;
+
+}
+
+.form-contact div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+textarea {
+    resize : none;
+}
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 5vw;
+
+
+}

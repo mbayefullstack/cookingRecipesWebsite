@@ -1,0 +1,46 @@
+a {
+    cursor: pointer;
+}
+
+.header-main {
+    width: 100vw;
+    height: 8vh;
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+}
+.header-main ul {
+    list-style: none;
+}
+.header-main ul li {
+    display: inline;
+    float: left;
+}
+
+.header-main ul li a {
+    
+}
+
+.header-main-logo {
+    width: fit-content;
+    height: 90%;
+    background-color: aqua;
+    display: flex;
+}
+
+.header-main-logo  img{
+    width: 5vw;
+    height: 8vh;
+}
+
+.header-main-nav {
+    width: fit-content;
+    height: 100%;
+    background-color: rgb(3, 134, 17);
+}
+
+.header-main-social {
+    width: 5vw;
+    height: 90%;
+    background-color: rgb(121, 28, 235);
+}
